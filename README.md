@@ -45,3 +45,4 @@ js-ts-toolkit/
 ├── package.json
 └── tsconfig.json
 
+This project also demonstrates pull request workflow practice.
