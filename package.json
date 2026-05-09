@@ -1,0 +1,26 @@
+{
+  "name": "js-ts-toolkit",
+  "version": "1.0.0",
+  "description": "Modern JavaScript and TypeScript Coding Toolkit",
+  "main": "index.js",
+  "scripts": {
+  "run-js": "node js/toolkit.js",
+  "build-ts": "tsc",
+  "run-ts": "node ts/toolkit.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahnoor123-mhg/js-ts-toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mahnoor123-mhg/js-ts-toolkit/issues"
+  },
+  "homepage": "https://github.com/Mahnoor123-mhg/js-ts-toolkit#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
